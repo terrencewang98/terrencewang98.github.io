@@ -17,15 +17,15 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component = {About} />
-        <Route exact path="/education" component = {Education} />
-        <Route exact path="/coursework" component = {Coursework} />
-        <Route exact path="/skills" component = {Skills} />
-        <Route exact path="/experience" component = {Experience} />
-        <Route exact path="/projects" component = {Projects} />
-        <Route exact path="/extracurricular" component = {Extracurricular} />
-        <Route exact path="/contact" component = {Contact} />
+        <Route basename = "/terrencewang98" exact path="/" component={Home} />
+        <Route basename = "/terrencewang98"exact path="/about" component = {About} />
+        <Route basename = "/terrencewang98" exact path="/education" component = {Education} />
+        <Route basename = "/terrencewang98" exact path="/coursework" component = {Coursework} />
+        <Route basename = "/terrencewang98" exact path="/skills" component = {Skills} />
+        <Route basename = "/terrencewang98" exact path="/experience" component = {Experience} />
+        <Route basename = "/terrencewang98" exact path="/projects" component = {Projects} />
+        <Route basename = "/terrencewang98" exact path="/extracurricular" component = {Extracurricular} />
+        <Route basename = "/terrencewang98" exact path="/contact" component = {Contact} />
       </div>
     </Router>
   )
