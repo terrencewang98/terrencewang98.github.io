@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2aa8c950.chunk.css",
-    "main.js": "/static/js/main.bf5873b7.chunk.js",
-    "main.js.map": "/static/js/main.bf5873b7.chunk.js.map",
+    "main.css": "/static/css/main.67630869.chunk.css",
+    "main.js": "/static/js/main.de7561f4.chunk.js",
+    "main.js.map": "/static/js/main.de7561f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.01539f98.js",
     "runtime-main.js.map": "/static/js/runtime-main.01539f98.js.map",
     "static/js/2.4f274b4c.chunk.js": "/static/js/2.4f274b4c.chunk.js",
     "static/js/2.4f274b4c.chunk.js.map": "/static/js/2.4f274b4c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2aa8c950.chunk.css.map": "/static/css/main.2aa8c950.chunk.css.map",
+    "static/css/main.67630869.chunk.css.map": "/static/css/main.67630869.chunk.css.map",
     "static/js/2.4f274b4c.chunk.js.LICENSE.txt": "/static/js/2.4f274b4c.chunk.js.LICENSE.txt",
     "static/media/AlgorithmVisual.98ce41d8.jar": "/static/media/AlgorithmVisual.98ce41d8.jar",
+    "static/media/SudokuSolver.25cc4339.jar": "/static/media/SudokuSolver.25cc4339.jar",
     "static/media/profilepic.a5b5b80b.jpg": "/static/media/profilepic.a5b5b80b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.01539f98.js",
     "static/js/2.4f274b4c.chunk.js",
-    "static/css/main.2aa8c950.chunk.css",
-    "static/js/main.bf5873b7.chunk.js"
+    "static/css/main.67630869.chunk.css",
+    "static/js/main.de7561f4.chunk.js"
   ]
 }
