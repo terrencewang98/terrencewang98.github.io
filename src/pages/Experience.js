@@ -8,6 +8,13 @@ class Experience extends Component {
 			<div className="condiv">
 				<h1>experience</h1>
 				<div className = "card" style = {cardStyle}>
+					<h2>trustmark benefits, summer 2021</h2>
+					<p><em>summer intern</em></p>
+					<p>
+						learned and utilized angular to implement frontend enhancements to the customer portal website
+					</p>
+				</div>
+				<div className = "card" style = {cardStyle}>
 					<h2>amherst college cs department, summer 2020</h2>
 					<p><em>summer intern</em></p>
 					<p>

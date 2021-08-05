@@ -5,6 +5,7 @@ const items = [
 	'Python',
 	'JavaScript',
 	'React',
+	'Angular',
 	'HTML',
 	'CSS',
 	'Android Studio',
